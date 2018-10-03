@@ -1,0 +1,13 @@
+{
+    "name": "naren/react-php",
+    "authors": [
+        {
+            "name": "Naren",
+            "email": "developer.naren@gmail.com"
+        }
+    ],
+    "require": {
+        "react/event-loop": "^1.0",
+        "react/http": "^0.8.3"
+    }
+}

@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  react.php:
+    container_name: react.php
+    image: developernaren/docker-react-php:latest
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./:/var/www
